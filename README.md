@@ -1,7 +1,8 @@
-<!-- 👨‍🚀 Abdelhakim Mraihi | Futuristic GitHub Profile -->
+<!-- ⚡ Abdelhakim Mraihi | AI & Data Science Portfolio -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3500&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abdelhakim+Mraihi+👋;Applied+Data+Science+%7C+DevOps+%7C+AI;Turning+Data+into+Intelligence;Empowering+AI+with+Scalable+Pipelines" alt="Typing SVG" />
+<!-- Typing Animation (GitHub-safe alternative via readme-typing-svg.vercel.app) -->
+<img src="https://readme-typing-svg.vercel.app?font=Orbitron&color=00F7FF&size=30&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Abdelhakim+Mraihi+👋;Applied+Data+Science+%7C+AI+%7C+DevOps;Turning+Data+Into+Intelligence;Empowering+AI+with+Scalable+Pipelines" alt="Typing SVG" />
 
 </div>
 
@@ -17,12 +18,12 @@
 
 > 💡 “I can write code without GPT that others can read without crying.”
 
-🎓 **M.Sc. in Applied Data Science** candidate @ Malmö University  
-🧠 10+ years in **Software Engineering, Data Analytics, and Machine Learning**  
-🚀 Hands-on with **RAG, PySpark, LangGraph, CI/CD, DevOps, and AI pipelines**  
-💬 Teaching Assistant — *Statistical Methods for Data Science*  
-🌍 Based in **Malmö, Sweden 🇸🇪**  
-🌱 Outside code: I grow plants, cycle, and mentor aspiring data scientists 🌿  
+🎓 M.Sc. Candidate in **Applied Data Science** @ *Malmö University*  
+🧠 10+ years in **Software Engineering, Data Analytics & Machine Learning**  
+🚀 Hands-on with **RAG**, **PySpark**, **LangGraph**, **CI/CD**, and **LLMs**  
+📊 Teaching Assistant — *Statistical Methods for Data Science*  
+🌍 Based in Malmö, Sweden 🇸🇪  
+🪴 Outside code: I enjoy **gardening, cycling, and mentoring students**
 
 ---
 
@@ -37,14 +38,13 @@
 ---
 
 ### 🚀 Featured Projects
-
 <div align="center">
 
 | ⚙️ Project | 🧩 Description | 🔗 Link |
 |-------------|----------------|---------|
 | **Real-Time Data Streaming & Analytics** | Apache Spark Structured Streaming pipeline for IoT data | [🌐 GitHub](https://github.com/hakim733/Spark_project) |
-| **RAG-Based Research Paper Analyzer** | AI pipeline for scholarly document summarization and fact-checking | [🤖 GitHub](https://github.com/hakim733/Research_Paper_Analyser_AI-Agent) |
-| **LangGraph Multi-Agent Chatbot** | Graph-based reasoning using LangGraph + Groq API | [🧠 GitHub](https://github.com/hakim733/Langraph_chatbot) |
+| **RAG-Based Research Paper Analyzer** | AI pipeline for summarizing and verifying scientific papers | [🤖 GitHub](https://github.com/hakim733/Research_Paper_Analyser_AI-Agent) |
+| **LangGraph Multi-Agent Chatbot** | Graph-based reasoning system for LLMs | [🧠 GitHub](https://github.com/hakim733/Langraph_chatbot) |
 | **Predictive Maintenance (Scania)** | Bi-GRU + Attention model for predictive maintenance | [🔧 GitHub](https://github.com/hakim733/scania-predictive-maintenance) |
 | **Vestas Analytics Dashboard** | Real-time weather & forecasting dashboard | [🌍 GitHub](https://github.com/hakim733/Vestas) |
 
@@ -52,8 +52,7 @@
 
 ---
 
-### ⚙️ GitHub Analytics
-
+### 📊 GitHub Analytics
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hakim733&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=hakim733&theme=tokyonight&hide_border=true" />
@@ -66,7 +65,6 @@
 ---
 
 ### 🧩 My Digital Badge Wall
-
 <p align="center">
   <a href="https://www.credly.com/users/abdelhakim-mraihi/badges" target="_blank">
     <img src="https://img.shields.io/badge/Explore%20My%20Badges-00E7FF?style=for-the-badge&logo=credly&logoColor=white" />
@@ -89,7 +87,7 @@
   
 💬 *“Data becomes knowledge when it drives decisions — I build systems that make that happen.”*  
 
-<img src="https://github.com/Th3Wall/assets-cdn/raw/main/aurora.gif" width="100%" alt="aurora animation" />
+<img src="https://raw.githubusercontent.com/Th3Wall/assets-cdn/main/aurora.gif" width="100%" alt="aurora animation" />
 
 </div>
 

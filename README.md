@@ -16,7 +16,7 @@
 
 ### ⚡ About Me
 
-> 💡 “I can write code without GPT that others can read without crying.”
+
 
 🎓 M.Sc. Candidate in **Applied Data Science** @ *Malmö University*  
 🧠 10+ years in **Software Engineering, Data Analytics & Machine Learning**  
